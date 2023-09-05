@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cVDtYi8gdlwJJIvZI0lyvatHZpppj/VMFV1ldl4sFp0OIDTaNf8wdjjbYEfOt5bFMlU5Dns9wuE7A4fJTflsyw==",
+  "dgSpecHash": "hODa2ceQ7fNp2WuVhu6gYFIHXUMerPB4nbjk2eykB4sMAWz0iGVOIt+SRl4NRqPaJkFx0OP4wZdZaAL8Ms4jqg==",
   "success": true,
   "projectFilePath": "C:\\temp\\VirtualShop\\VShop\\VShop.ProductApi\\VShop.ProductApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
